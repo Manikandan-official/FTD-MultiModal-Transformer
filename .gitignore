@@ -1,0 +1,27 @@
+# Dataset
+data/
+
+# Archives
+*.tar.gz
+*.zip
+
+# Pretrained Weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Logs
+*.log
